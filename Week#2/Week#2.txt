@@ -1,0 +1,1 @@
+In week#2, I learned about the concept of shared preferences in flutter and made an app using shared preferences which includes features like authentication based on the role of the user.
